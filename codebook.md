@@ -1,3 +1,5 @@
+It is actually also outlined in the README.md file
+
 # getting-and-cleaning-data-coursera
 the repository for the coursera course "getting and cleaning data"
 It is used for the project assignment
