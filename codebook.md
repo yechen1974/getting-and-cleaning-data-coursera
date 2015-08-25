@@ -15,7 +15,7 @@ Row is a combination of number of activities (6) and number of subjects (persons
 The name format is: activity_person_(number).  E.g. WALKING_person_1
 
 
-Column: total 86 rows.  Mapping to filtered measurements. It is based on the full set measuremnts 
+Column: total 86 columns.  Mapping to filtered measurements. It is based on the full set measuremnts after filtering (mean/std)
 
 1 "tBodyAcc-mean()-X"
 2 "tBodyAcc-mean()-Y"
